@@ -43,4 +43,5 @@ class FabricaTest {
         assertEquals(1, uma.acervo().listarItens().size());
         assertEquals(0, outra.acervo().listarItens().size());
     }
+
 }
